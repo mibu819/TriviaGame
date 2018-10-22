@@ -1,0 +1,31 @@
+
+  
+  body {
+    text-align: center;
+    background-image: url("./images/giphy.gif");
+    background-size: 33%;
+  }
+  .option{
+    margin: 15px;
+    background-color:grey;
+  }
+  .text-muted{
+    color: yellowgreen;
+  }
+
+  .container {
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    resize: vertical;
+    overflow: auto;
+    margin-bottom: 30px;
+    background-color: grey;
+    opacity: 0.9;
+}
+
+#start {
+  margin-top: 10%;
+  background: black;
+  margin-bottom: 100px;
+}
